@@ -1,11 +1,11 @@
 {
-    "name": "website",
-    "short_name": "website",
+    "name": "Tejas Moon",
+    "short_name": "Tejas Moon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fffbff",
     "theme_color": "#fffbff",
-    "description": "A new Flutter project.",
+    "description": "My Personal Website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
