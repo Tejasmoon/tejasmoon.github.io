@@ -71990,7 +71990,7 @@ B.wi=new A.kd("images/rms_pdf.png","RMS PDF","Many useful PDF Tools such as comb
 B.wh=new A.kd("images/image_resizer.png","Image Resizer","Resize any image using size or dimensions or percentage.",!0,!0,"https://github.com/Tejasmoon/image_resizer/releases/download/v1.6.0/Image.Resizer.Setup.exe","https://play.google.com/store/apps/details?id=com.tejasmoon.quick_image_resizer",null)
 B.CL=A.a(s([B.wi,B.wh]),t.E)
 B.Ov=new A.xc(B.CL,null)
-B.wg=new A.kd("images/wifi_file_transfer.png","WiFi File Transfer","Transfer files without internet using WiFi and Hotspot.",!0,!0,"https://github.com/Tejasmoon/WiFi-File-Transfer/releases/download/v1.7.4/WiFi.File.Transfer.exe","https://play.google.com/store/apps/details?id=com.tejasmoon.wifi_file_transfer",null)
+B.wg=new A.kd("images/wifi_file_transfer.png","WiFi File Transfer","Transfer files without internet using WiFi and Hotspot.",!0,!0,"https://github.com/Tejasmoon/WiFi-File-Transfer/releases/download/v1.7.5/WiFi.File.Transfer.exe","https://play.google.com/store/apps/details?id=com.tejasmoon.wifi_file_transfer",null)
 B.wj=new A.kd("images/mobile_laptop_file_transfer.png","Mobile Laptop Files Transfer","Manage your mobile files from laptop.",!1,!0,"","https://play.google.com/store/apps/details?id=com.tejasmoon.mobile_laptop_files_transfer",null)
 B.CM=A.a(s([B.wg,B.wj]),t.E)
 B.Ow=new A.xc(B.CM,null)
